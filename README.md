@@ -35,3 +35,6 @@ A lightweight database management system with **desktop GUI** (Tkinter) and **we
 - Char and real type validation.
 - Join operations correctness.
 - Error handling for missing join keys.
+
+![Desktop](desk.png)
+![Web](web.png)
